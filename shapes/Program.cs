@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace shapes
 {
+    class x
+    {
+
+    }
+
+
     class Program
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
